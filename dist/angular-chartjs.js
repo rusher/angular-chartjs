@@ -6,6 +6,8 @@
       line: 'Line',
       bar: 'Bar',
       radar: 'Radar',
+      horizontalBar: 'HorizontalBar',
+      horizontalStackedBar: 'HorizontalStackedBar',
       polar: 'PolarArea',
       pie: 'Pie',
       doughnut: 'Doughnut'
