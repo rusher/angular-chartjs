@@ -1,11 +1,11 @@
 {
-  "name": "ng-chartjs",
-  "version": "0.0.5",
-  "homepage": "https://github.com/petermelias/angular-chartjs",
+  "name": "ng-chartjsNew",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rusher/angular-chartjs",
   "authors": [
-    "Peter M. Elias <petermelias@gmail.com>"
+    "diego Dupin <diegodupin@gmail.com>"
   ],
-  "description": "Fully featured AngularJS bindings for ChartJS",
+  "description": "Fully featured AngularJS bindings for ChartJS New",
   "main": "dist/angular-chartjs.min.js",
   "keywords": [
     "angularjs",
@@ -20,7 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "Chart.js": ">=v1.0.1-beta.3",
+    "FVANCOP/ChartNew.js": "*",
     "angular": "~1.2.21"
   },
   "devDependencies": {
