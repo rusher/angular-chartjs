@@ -12,7 +12,7 @@
       depFiles = deps({
         packagers: ['bower'],
         overrides: {
-          'Chart.js': ['Chart.min.js']
+          'ChartNew.js': ['ChartNew.min.js']
         },
         order: [
           'Chart.js',
