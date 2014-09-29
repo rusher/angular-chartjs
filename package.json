@@ -1,28 +1,30 @@
 {
-  "name": "angular-chartjs",
-  "version": "0.0.5",
-  "description": "Angular bindings for the HTML5 Canvas Chart library-- Chart.js",
-  "main": "dist/angular-chartjs.min.js",
+  "name": "angular-chartNewjs",
+  "version": "0.0.6",
+  "description": "Angular bindings for the HTML5 Canvas Chart library-- ChartNew.js",
+  "main": "dist/angular-chartjsNew.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/petermelias/angular-chartjs"
+    "url": "https://github.com/rusher/angular-chartjs"
   },
   "keywords": [
     "angular",
     "chart-js",
     "chart.js",
     "angular-chartjs",
-    "chartjs"
+    "angular-chartNewjs",
+    "chartjs",
+    "chartNewjs"
   ],
-  "author": "Peter M. Elias",
+  "author": "Diego",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/petermelias/angular-chartjs/issues"
+    "url": "https://github.com/rusher/angular-chartjs/issues"
   },
-  "homepage": "https://github.com/petermelias/angular-chartjs",
+  "homepage": "https://github.com/rusher/angular-chartjs",
   "devDependencies": {
     "chai": "^1.9.1",
     "gulp": "^3.8.7",
