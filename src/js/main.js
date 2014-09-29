@@ -5,6 +5,7 @@
     chartTypes = {
       line: 'Line',
       bar: 'Bar',
+      horizontalBar: 'HorizontalBar',
       radar: 'Radar',
       polar: 'PolarArea',
       pie: 'Pie',
