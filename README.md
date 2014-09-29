@@ -8,7 +8,10 @@
 [![Github Issues](http://img.shields.io/github/issues/petermelias/angular-chartjs.svg)](https://github.com/petermelias/angular-chartjs/issues)
 
 
-A fully functional directive set for the ChartJS library. Supports data bindings and attribute-level specification for chart specific options.
+A fully functional directive set for the ChartJSNew library. Supports data bindings and attribute-level specification for chart specific options.
+
+Main see https://github.com/FVANCOP/ChartNew.js for Charts.js differences
+
 
 ### Installation
 
