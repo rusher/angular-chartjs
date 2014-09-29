@@ -6,10 +6,10 @@
     "diego Dupin <diegodupin@gmail.com>"
   ],
   "description": "Fully featured AngularJS bindings for ChartJS New",
-  "main": "dist/angular-chartjs.min.js",
+  "main": "dist/angular-chartjsNew.js",
   "keywords": [
     "angularjs",
-    "chartjs"
+    "ChartNew.js"
   ],
   "license": "MIT",
   "ignore": [
