@@ -18,7 +18,7 @@ Main see https://github.com/FVANCOP/ChartNew.js for Charts.js differences
 ##### Using Bower
 
 ```bash
-bower install ng-chartjs
+bower install rusher/angular-chartjs --save
 ```
 
 ##### Using NPM
